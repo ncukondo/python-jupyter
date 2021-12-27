@@ -1,0 +1,8 @@
+raw_data
+dist
+client_secrets.json
+token.pickle
+sheet_info.toml
+__pycache__
+.ipynb_checkpoints
+.env
